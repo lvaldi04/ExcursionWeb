@@ -23,3 +23,12 @@ body {
     color: aquamarine;
     font: 16px;
 }
+h2{
+    font-size: 42px;
+    font-weight: 300;
+}
+h3{
+    font-size: 21px;
+    color: gray;
+    font-weight: normal;
+}
