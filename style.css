@@ -32,3 +32,8 @@ h2{
     color: gray;
     font-weight: normal;
 }
+#cr{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
